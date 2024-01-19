@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+
     text-align: center;
     display: block;
     justify-content: center;
@@ -14,7 +14,8 @@ p{
     padding: 15px;
     background: lightskyblue;
 }
-.bloque1{
+
+#bloque1{
     width: 200px;
     height: 30px;
     margin-left: 43% ;
@@ -22,7 +23,7 @@ p{
     
 }
 
-.bloque2{
+#bloque2{
     width: 400px;
     height: 30px;
     margin: 70px 50px ;
